@@ -35,3 +35,6 @@ test/
 
 # Resources Files
 resources/
+
+# Mac
+.DS_Store
