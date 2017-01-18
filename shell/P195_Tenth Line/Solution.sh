@@ -1,6 +1,6 @@
 # Source: https://leetcode.com/problems/tenth-line/
 # Author: ML3426
-# Date: 2017-01-17
+# Date: 2017-01-19
 
 # How would you print just the 10th line of a file?
 #
