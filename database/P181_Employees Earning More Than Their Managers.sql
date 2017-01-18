@@ -32,7 +32,7 @@ CREATE TABLE leetcode.Employee (
   ManagerId BIGINT
 );
 
-TRUNCATE Logs;
+TRUNCATE Employee;
 INSERT INTO Employee (Name, Salary, ManagerId) VALUES ('Joe', 70000, 3);
 INSERT INTO Employee (Name, Salary, ManagerId) VALUES ('Henry', 80000, 4);
 INSERT INTO Employee (Name, Salary, ManagerId) VALUES ('Sam', 60000, NULL);
