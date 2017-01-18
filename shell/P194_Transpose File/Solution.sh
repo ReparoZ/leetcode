@@ -16,6 +16,9 @@
 # name alice ryan
 # age 21 30
 
+#Solution
+
+## 32ms
 awk '
 {
     for (i = 1; i <= NF; i++) {
