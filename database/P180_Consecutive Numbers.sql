@@ -45,5 +45,5 @@ INSERT INTO Logs (Num) VALUES (-1);
 
 # Solution：
 ## 对Logs表自连接三次查询
-## Time: Time Limit Exceeded
+## Time: 1411ms
 EXPLAIN SELECT DISTINCT(A.Num) ConsecutiveNums FROM Logs A, Logs B, Logs C WHERE A.Id + 1 = B.Id AND A.Id + 2 = C.Id AND A.Num = B.Num AND B.Num = C.Num;
