@@ -59,7 +59,7 @@ public:
 
     // 动态规划解法
     // 时间复杂度为O(N^2)，空间复杂度为O(N^2)
-    // Time：6ms
+    // Time：59ms
     bool isMatch2(string s, string p) {
         p = prepare(p);
 
