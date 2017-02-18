@@ -1,4 +1,4 @@
-// Source: https://leetcode.com/problems/maximum-subarray/?tab=Description
+// Source: https://leetcode.com/problems/maximum-subarray/
 // Author: ML3426
 // Date: 2017-02-18
 
