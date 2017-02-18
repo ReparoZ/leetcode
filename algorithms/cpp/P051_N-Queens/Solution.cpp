@@ -34,7 +34,9 @@ using namespace std;
 
 class Solution {
 public:
-    // Time: 
+    // 经典回溯法解决N Queens问题
+    // 时间复杂度为O(N!)，空间复杂度为O(1)
+    // Time: 6ms
     vector<vector<string>> solveNQueens(int n) {
         int row = 0, col = 0;
         vector<vector<string>> res;
