@@ -1,4 +1,4 @@
-// Source: https://leetcode.com/problems/jump-game/
+// Source: https://leetcode.com/problems/insert-interval/
 // Author: ML3426
 // Date: 2017-02-19
 
