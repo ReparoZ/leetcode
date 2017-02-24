@@ -1,4 +1,4 @@
-// Source: https://leetcode.com/problems/simplify-path/
+// Source: https://leetcode.com/problems/simplify-path/ 
 // Author: ML3426
 // Date: 2017-02-25
 
