@@ -1,4 +1,4 @@
-// Source: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+// Source: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 // Author: ML3426
 // Date: 2017-02-28
 
